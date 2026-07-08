@@ -1,19 +1,19 @@
-# Basic Chatbot
+# Hangman Game
 
 ## Description
-A simple rule-based chatbot developed using Python.
+A simple text-based Hangman game developed in Python.
 
 ## Features
-- Responds to greetings
-- Answers basic questions
-- User-friendly console interface
-- Exit using the "bye" command
+- Random word selection
+- 6 wrong guesses allowed
+- Console-based gameplay
+- Win/Lose messages
 
 ## Technologies Used
 - Python 3
 
 ## How to Run
-Run `chatbot.py` in PyCharm and interact with the chatbot by typing messages.
+Run `hangman.py` in PyCharm and enter one letter at a time.
 
 ## Author
 Ramya Sri
