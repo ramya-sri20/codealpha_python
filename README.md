@@ -1,19 +1,18 @@
-# Hangman Game
+# Stock Portfolio Tracker
 
 ## Description
-A simple text-based Hangman game developed in Python.
+A simple Python application to calculate the total value of a stock portfolio.
 
 ## Features
-- Random word selection
-- 6 wrong guesses allowed
-- Console-based gameplay
-- Win/Lose messages
+- Track multiple stocks
+- Calculate total investment value
+- User-friendly console interface
 
 ## Technologies Used
 - Python 3
 
 ## How to Run
-Run `hangman.py` in PyCharm and enter one letter at a time.
+Run `stock_tracker.py` in PyCharm and enter stock names and quantities.
 
 ## Author
 Ramya Sri
